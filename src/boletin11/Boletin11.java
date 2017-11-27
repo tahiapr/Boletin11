@@ -24,10 +24,10 @@ public class Boletin11 {
     
     Seleccion selec2 = new Xogador(0022,"Fernando","Fernandez",13,12,"Portero");
         
-    //selec1.concentrarse(); no va porque no hay ese método
+    selec1.concentrarse(); 
     xog1.concentrarse();
-   // ades1.concentrarse();  no va porque no hay ese método
-   // max1.concentrarse(); no va porque no hay ese método
+   ades1.concentrarse(); 
+   max1.concentrarse(); 
    
    selec1.viaxar();
    xog1.viaxar();

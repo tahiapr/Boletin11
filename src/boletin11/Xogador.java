@@ -37,10 +37,6 @@ public class Xogador extends Seleccion {
         this.demarcacion = demarcacion;
     }
     
-    public void concentrarse () {
-        System.out.println("Concentrase a selección");
-    }
-    
     public void viaxar (){
         System.out.println("Viaxan os xogadores");
     }

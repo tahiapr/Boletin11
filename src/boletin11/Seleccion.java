@@ -55,6 +55,9 @@ public class Seleccion {
     System.out.println("Viaxa a selección");
     }
     
+    public void concentrarse () {
+    System.out.println("Concentrase a selección");
+    }
     
     @Override
     public String toString() {
